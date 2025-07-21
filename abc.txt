@@ -1,0 +1,5 @@
+Hi! I'm a passionate and dedicated full-stack developer, continuously learning and growing my skills day by day. I have a strong foundation in front-end web technologies, including HTML, CSS, and JavaScript, and I enjoy building clean, responsive, and user-friendly interfaces.
+
+Alongside front-end development, I’ve gained experience with basic Java and C programming, which have helped me understand core programming concepts and logical problem-solving.
+
+I'm committed to becoming a well-rounded developer by consistently learning the required skills for full-stack development. Check out my projects to see how I apply my knowledge and creativity in real-world applications!
